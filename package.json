@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Naveen Kumar S",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "express": "^4.19.2"
